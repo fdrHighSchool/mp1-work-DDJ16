@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:De Jesus 
+### First Name:Derek
+### GitHub Username:DDJ16
 
 ---
 #### General Workflow: 
